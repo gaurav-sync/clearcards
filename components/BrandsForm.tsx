@@ -82,7 +82,7 @@ export default function BrandsForm() {
           Thank you for your interest!
         </h3>
         <p className="text-primary/70">
-          We'll reach out shortly to discuss partnership opportunities.
+          We&apos;ll reach out shortly to discuss partnership opportunities.
         </p>
       </div>
     );

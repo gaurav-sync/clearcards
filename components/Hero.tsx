@@ -27,13 +27,13 @@ export default function Hero() {
             onClick={() => scrollToContact("couples")}
             className="px-8 py-4 bg-primary text-white rounded-lg font-semibold text-lg hover:bg-primary-dark transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 w-full sm:w-auto"
           >
-            I'm a Couple
+            I&apos;m a Couple
           </button>
           <button
             onClick={() => scrollToContact("brands")}
             className="px-8 py-4 bg-accent text-primary rounded-lg font-semibold text-lg hover:bg-accent-light transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5 w-full sm:w-auto"
           >
-            I'm a Brand
+            I&apos;m a Brand
           </button>
         </div>
       </div>

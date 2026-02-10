@@ -82,7 +82,7 @@ export default function CouplesForm() {
           Thank you for your interest!
         </h3>
         <p className="text-primary/70">
-          We'll get in touch with you shortly to discuss your invitation cards.
+          We&apos;ll get in touch with you shortly to discuss your invitation cards.
         </p>
       </div>
     );
