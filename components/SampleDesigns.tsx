@@ -20,7 +20,7 @@ export default function SampleDesigns() {
             >
               <Image
                 src={`/samplecards/sample${design}.png`}
-                alt={`Wedding invitation card design ${design}`}
+                alt={`Premium wedding invitation card design sample ${design} - elegant and customizable invitation card layout`}
                 width={400}
                 height={533}
                 className="w-full h-full object-cover"

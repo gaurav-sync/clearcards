@@ -1,0 +1,5 @@
+# robots.txt for ClearCards
+User-agent: *
+Allow: /
+
+Sitemap: https://clearcards.app/sitemap.xml
